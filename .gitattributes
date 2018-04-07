@@ -1,0 +1,4 @@
+
+*.cmd text eol=crlf
+
+*.reg text eol=crlf
